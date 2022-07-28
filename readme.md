@@ -38,10 +38,10 @@ These were the customers in **Group B**. There is an approx 1.3% uplift in conve
 
 This has been confirmed through multiple methods of testing.
 
-**Group A** The chance of Group A customers having a better conversion than the control group is 93.6% (through Baysian testing), however we can't rule out that the increased conversion was due to random chance (Frequentist testing).
+**Group A** The chance of Group A customers having a better conversion than the control group is 93.6% (through Bayesian testing), however we can't rule out that the increased conversion was due to random chance (Frequentest testing).
 
-**Group B** The chance of Group B customers having a better conversion than the control group is 99.7% (through Baysian testing), and it's significantly unlikey that the increased conversion is due to random chance (Frequentist testing).
+**Group B** The chance of Group B customers having a better conversion than the control group is 99.7% (through Bayesian testing), and it's significantly unlikely that the increased conversion is due to random chance (Frequentest testing).
 
-**Group C** The chance of Group C customers having a better conversion than the control group is 89.6% (through Baysian testing), however like Group A, we can't rule out that the increased conversion was due to random chance (Frequentist testing). Expected loss of 0.000222 is below our loss threshold.
+**Group C** The chance of Group C customers having a better conversion than the control group is 89.6% (through Bayesian testing), however like Group A, we can't rule out that the increased conversion was due to random chance (Frequentest testing). Expected loss of 0.000222 is below our loss threshold.
 
 **Please read the Jupyter notebook to understanding how we've come to this conclusion.**
